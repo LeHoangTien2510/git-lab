@@ -1,1 +1,1 @@
-print('Day la commit thu 6 - Mọi thứ đều ổn')
+print('Day la commit thu 7 - Mọi thứ đều ổn')
